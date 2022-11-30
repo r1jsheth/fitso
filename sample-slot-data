@@ -1,0 +1,225 @@
+{
+    "pageInfo": {
+        "id": 395,
+        "name": "facility_slots",
+        "url": "/bangalore/fitso-koramangala-pk-sports/table-tennis/slots",
+        "title": "Table Tennis slots | Fitso Koramangala PK Sports, 1st Block, Koramangala - Bangalore | Fitso",
+        "description": "Check today and tomorrow slots for Table Tennis at Fitso Koramangala PK Sports, 1st Block, Koramangala - Bangalore | Fitso",
+        "isMobile": false
+    },
+    "pageData": {
+        "facilityDetails": {
+            "name": "Fitso Koramangala PK Sports",
+            "rating": "4.7",
+            "shortAddress": "Koramangala, Bengaluru, Karnataka",
+            "img": "https://images.fitsocdn.com/uploads/FacilityatKormangalaTT11655469012.jpg",
+            "fsId": 395,
+            "soldOut": false
+        },
+        "heading": "Booking slot for Table Tennis",
+        "slotSections": [
+            {
+                "title": "Today",
+                "subtitle": "Wed, 30 Nov",
+                "sections": [
+                    {
+                        "title": "MORNING",
+                        "slots": [
+                            {
+                                "slotId": 2,
+                                "title": "6- 6:50 AM",
+                                "isDisabled": true,
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669768200,
+                                "formattedSlotTime": "Today, 30 Nov at 6:00 AM",
+                                "productArenaCategoryID": 2
+                            },
+                            {
+                                "slotId": 3,
+                                "title": "7- 7:50 AM",
+                                "isDisabled": true,
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669771800,
+                                "formattedSlotTime": "Today, 30 Nov at 7:00 AM",
+                                "productArenaCategoryID": 2
+                            },
+                            {
+                                "slotId": 4,
+                                "title": "8- 8:50 AM",
+                                "isDisabled": true,
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669775400,
+                                "formattedSlotTime": "Today, 30 Nov at 8:00 AM",
+                                "productArenaCategoryID": 2
+                            }
+                        ]
+                    },
+                    {
+                        "title": "EVENING",
+                        "slots": [
+                            {
+                                "slotId": 15,
+                                "title": "7- 7:50 PM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669815000,
+                                "formattedSlotTime": "Today, 30 Nov at 7:00 PM",
+                                "productArenaCategoryID": 2
+                            },
+                            {
+                                "slotId": 16,
+                                "title": "8- 8:50 PM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669818600,
+                                "formattedSlotTime": "Today, 30 Nov at 8:00 PM",
+                                "productArenaCategoryID": 2
+                            },
+                            {
+                                "slotId": 17,
+                                "title": "9- 9:50 PM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669822200,
+                                "formattedSlotTime": "Today, 30 Nov at 9:00 PM",
+                                "productArenaCategoryID": 2
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "title": "Tomorrow",
+                "subtitle": "Thu, 01 Dec",
+                "sections": [
+                    {
+                        "title": "MORNING",
+                        "slots": [
+                            {
+                                "slotId": 2,
+                                "title": "6- 6:50 AM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669854600,
+                                "formattedSlotTime": "Tomorrow, 1 Dec at 6:00 AM",
+                                "productArenaCategoryID": 2
+                            },
+                            {
+                                "slotId": 3,
+                                "title": "7- 7:50 AM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669858200,
+                                "formattedSlotTime": "Tomorrow, 1 Dec at 7:00 AM",
+                                "productArenaCategoryID": 2
+                            },
+                            {
+                                "slotId": 4,
+                                "title": "8- 8:50 AM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669861800,
+                                "formattedSlotTime": "Tomorrow, 1 Dec at 8:00 AM",
+                                "productArenaCategoryID": 2
+                            }
+                        ]
+                    },
+                    {
+                        "title": "EVENING",
+                        "slots": [
+                            {
+                                "slotId": 15,
+                                "title": "7- 7:50 PM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669901400,
+                                "formattedSlotTime": "Tomorrow, 1 Dec at 7:00 PM",
+                                "productArenaCategoryID": 2
+                            },
+                            {
+                                "slotId": 16,
+                                "title": "8- 8:50 PM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669905000,
+                                "formattedSlotTime": "Tomorrow, 1 Dec at 8:00 PM",
+                                "productArenaCategoryID": 2
+                            },
+                            {
+                                "slotId": 17,
+                                "title": "9- 9:50 PM",
+                                "img": "https://images.fitsocdn.com/uploads/Group22726-.png",
+                                "slotDatetime": 1669908600,
+                                "formattedSlotTime": "Tomorrow, 1 Dec at 9:00 PM",
+                                "productArenaCategoryID": 2
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "coachDescriptionSection": {
+            "title": "Coach available in these slots",
+            "subtitle": "Our coaches also double up as your playing partners in case you don't have a playing partner.",
+            "img": "https://images.fitsocdn.com/uploads/Group22726-.png"
+        },
+        "button": {
+            "title": "Book free trial slot"
+        },
+        "Header": null
+    },
+    "footerData": {
+        "sections": [
+            {
+                "heading": "Company",
+                "links": [
+                    {
+                        "link": "https://www.getfitso.com",
+                        "text": "Home"
+                    }
+                ]
+            },
+            {
+                "heading": "For you",
+                "links": [
+                    {
+                        "link": "/faq",
+                        "text": "FAQs"
+                    },
+                    {
+                        "link": "/terms",
+                        "text": "Terms of use"
+                    },
+                    {
+                        "link": "/privacy",
+                        "text": "Privacy policy"
+                    }
+                ]
+            }
+        ],
+        "info": "By continuing past this page, you agree to our Terms of Service, Cookie Policy, Privacy Policy and Content Policies. All trademarks are properties of their respective owners. 2015-2022 - Jogo Technologies Pvt Ltd. All rights reserved.",
+        "appLinks": [
+            {
+                "img": "https://images.fitsocdn.com/uploads/appstore1621089162.png",
+                "link": "https://fitsosports.app.link/WDd5Xr51zcb"
+            },
+            {
+                "img": "https://images.fitsocdn.com/uploads/playstore1621089176.png",
+                "link": "https://fitsosports.app.link/WDd5Xr51zcb"
+            }
+        ],
+        "socialLinks": {
+            "heading": "Social links",
+            "links": [
+                {
+                    "img": "https://images.fitsocdn.com/uploads/facebook1621088995.png",
+                    "link": "https://www.facebook.com/fitsonetwork/"
+                },
+                {
+                    "img": "https://images.fitsocdn.com/uploads/instagram1621089016.png",
+                    "link": "https://www.instagram.com/get.fitso/?hl=en"
+                }
+            ]
+        }
+    },
+    "has_more": false,
+    "headerData": {
+        "membershipUrl": "/membership",
+        "cityPageInfo": {
+            "name": "city",
+            "isMobile": false
+        }
+    }
+}
